@@ -10,8 +10,7 @@ function Instructionbox() {
         lankku + punnerrus (spoilasin!). Aina sopivin välein "nollataan".
         Nollaus tapahtuu kun video on jotain muuta kun "raskas" liike, esim
         jokin joogavideo tms mitä satun löytämään.DISCLAIMER:En oo nähny
-        yhtäkään näistä videoista!En tiedä miksi kuvat ei nyt toimi,enkä jaksa
-        selvittää.
+        yhtäkään näistä videoista!
       </p>
     </div>
   );
