@@ -63,8 +63,14 @@ function App() {
   // Get the current date
   const getAvailableHatchIndex = () => {
     const today = new Date();
-    const dayOfMonth = today.getDate(); // e.g., 17 for November 17th
-    return dayOfMonth - 1; // Convert to zero-based index
+    const currentMonth = today.getMonth(); // 0 = January, 11 = December
+    const currentDay = today.getDate();
+
+    if (currentMonth !== 11) {
+      // If it's not December, no hatches are available
+      return -1;
+    }
+    return currentDay - 1; // Convert day of the month to zero-based index
   };
   const openHatch = (index) => {
     const availableHatchIndex = getAvailableHatchIndex();
