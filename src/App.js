@@ -78,7 +78,7 @@ function App() {
     if (index <= availableHatchIndex && !openedHatches.includes(index)) {
       setOpenedHatches([...openedHatches, index]);
     } else {
-      alert("Int öppna i förtid, busungar!");
+      alert("Eipäs hötkyillä!Me mielummin MoWelle!");
     }
   };
 
