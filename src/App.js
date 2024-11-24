@@ -6,7 +6,7 @@ import Instructionbox from "./InstructionBox";
 const videos = [
   "https://www.youtube.com/embed/pvIjsG5Svck?si=ht6Bv_mSz_xNLgHJ",
   "https://www.youtube.com/embed/0pkjOk0EiAk?si=MGWngxYxd_ZfkrH1",
-  "https://www.youtube.com/embed/-cdph8hv0O0?si=-l0CzN7MrHRDqKPR",
+  "https://www.youtube.com/embed/aKBxiKs9n8A?si=0Ms4_N_VKX0dzd_U",
   "https://www.youtube.com/embed/z6PJMT2y8GQ?si=b8N09viEElmk1GMD",
   "https://www.youtube.com/embed/nvFm30ZAZRY?si=HOm0ZOXeygnshJf-",
   "https://www.youtube.com/embed/wnuLak2onoA?si=YP6R6oop3N8fbk7f",
@@ -20,7 +20,7 @@ const videos = [
   "https://www.youtube.com/embed/JyUqwkVpsi8?si=vlNedbzw7lgvc2Ip",
   "https://www.youtube.com/embed/SKRKR-IcTsw?si=eONpIu0QlCymz5i1",
   "https://www.youtube.com/embed/cnyTQDSE884?si=4GbP1VN7tro2f3i5",
-  "https://www.youtube.com/embed/tTej-ax9XiA?si=4yJvsqSEkgMtqICT",
+  "https://www.youtube.com/embed/3XDriUn0udo?si=URmuHDZCMNvT4ZP0",
   "https://www.youtube.com/embed/XckEEwa1BPI?si=IrFDTbS_b7VfCiDi",
   "https://www.youtube.com/embed/ztTexqGQ0VI?si=Wyr3e8WTkh4ZrAej",
   "https://www.youtube.com/embed/nLNqEQ4B6XI?si=xnhlj2cFhzHTLbZ4",
@@ -78,7 +78,7 @@ function App() {
     if (index <= availableHatchIndex && !openedHatches.includes(index)) {
       setOpenedHatches([...openedHatches, index]);
     } else {
-      alert("Eipäs hötkyillä!Me mielummin MoWelle!");
+      alert("Eipäs hötkyillä!Mee mielummin MoWelle jos on liikaa energiaa!");
     }
   };
 
