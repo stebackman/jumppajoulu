@@ -1,6 +1,6 @@
 {
-  "name": "felix-och-robins-musikvideokalender",
-  "homepage": "https://stebackman.github.io/JulkalenderTikuTaku",
+  "name": "jumppajoulu",
+  "homepage": "https://stebackman.github.io/jumppajoulu",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
