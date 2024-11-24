@@ -1,0 +1,16 @@
+.instructionbox {
+  background-color: red;
+  width: 300px;
+  height: 300px;
+  color: white; /* Makes the text visible against the red background */
+  padding: 20px;
+  box-sizing: border-box; /* Ensures padding doesn't exceed the width/height */
+  border-radius: 10px; /* Optional: adds slightly rounded corners */
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* Centers content vertically */
+  align-items: center; /* Centers content horizontally */
+  text-align: center; /* Ensures text is centered */
+  font-family: Arial, sans-serif; /* Sets a clean font style */
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.3); /* Adds a subtle shadow */
+}
