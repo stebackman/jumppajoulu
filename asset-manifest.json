@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jumppajoulu/static/css/main.8079ec20.css",
+    "main.js": "/jumppajoulu/static/js/main.bc1f8132.js",
+    "static/js/453.8c9126cb.chunk.js": "/jumppajoulu/static/js/453.8c9126cb.chunk.js",
+    "index.html": "/jumppajoulu/index.html",
+    "main.8079ec20.css.map": "/jumppajoulu/static/css/main.8079ec20.css.map",
+    "main.bc1f8132.js.map": "/jumppajoulu/static/js/main.bc1f8132.js.map",
+    "453.8c9126cb.chunk.js.map": "/jumppajoulu/static/js/453.8c9126cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8079ec20.css",
+    "static/js/main.bc1f8132.js"
+  ]
+}
