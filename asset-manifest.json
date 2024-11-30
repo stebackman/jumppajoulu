@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/jumppajoulu/static/css/main.3f49a9fc.css",
-    "main.js": "/jumppajoulu/static/js/main.2f7a8b56.js",
+    "main.js": "/jumppajoulu/static/js/main.0ded0e57.js",
     "static/js/453.8c9126cb.chunk.js": "/jumppajoulu/static/js/453.8c9126cb.chunk.js",
     "static/media/MOWE-MotivatingWellness-VEIKKOLA-002.jpg": "/jumppajoulu/static/media/MOWE-MotivatingWellness-VEIKKOLA-002.691af48aa49301243fe8.jpg",
     "index.html": "/jumppajoulu/index.html",
     "main.3f49a9fc.css.map": "/jumppajoulu/static/css/main.3f49a9fc.css.map",
-    "main.2f7a8b56.js.map": "/jumppajoulu/static/js/main.2f7a8b56.js.map",
+    "main.0ded0e57.js.map": "/jumppajoulu/static/js/main.0ded0e57.js.map",
     "453.8c9126cb.chunk.js.map": "/jumppajoulu/static/js/453.8c9126cb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3f49a9fc.css",
-    "static/js/main.2f7a8b56.js"
+    "static/js/main.0ded0e57.js"
   ]
 }
